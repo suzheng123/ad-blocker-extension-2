@@ -2,9 +2,9 @@
 
 ## About the project
 
-Manifest version: 2
-ad-blocker in typeScript
-can refer https://easylist.to for more adBlock filters
+- Manifest version: 2
+- ad-blocker in typeScript
+- can refer https://easylist.to for more adBlock filters
 
 ## Getting Started
 
